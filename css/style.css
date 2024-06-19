@@ -213,7 +213,7 @@ body .header nav ul li .dropdown-menu li a{
   padding-left: 0;
 }
 .nav-menu {
-  background: transparent;
+  background: transparent!important;
   padding: 15px 0;
   position: fixed;
   width: 100%;
