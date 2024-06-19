@@ -252,6 +252,15 @@ body .header nav ul li .dropdown-menu li a{
   color: #FF7711;
 }
 
+.ea-home {
+  background-image: url("../img/photo_2024-06-19_16-04-26.png"); 
+  background-color: #2752d6;
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
 .flex-container {
   display: flex;
 }
@@ -655,7 +664,7 @@ hr {
   padding: 12px 25px;
   background-image: -webkit-linear-gradient(30deg, #FF7711 50%, transparent 50%);
   background-image: linear-gradient(30deg, #FF7711 50%, transparent 50%);
-  background-size: 500px;
+  background-size: 600px;
   background-repeat: no-repeat;
   background-position: 0%;
   -webkit-transition: background 300ms ease-in-out;
@@ -1882,6 +1891,23 @@ span.badge.bg-danger {
 }
 .carousel-inner {
   border-radius: 10px;
+}
+
+.ea-bnb {
+  background-image: url("/Blue-fog-texture.png"); 
+  background-color: #2752d6;
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  padding: 140px 0 40px;
+}
+.ea-bnb .ea-main-title{
+  text-align: left;
+}
+.ea-bnb .ea-main-title h2{
+  text-align: left;
+  padding-bottom: 0;
 }
 
 /* blog Details page css  */
